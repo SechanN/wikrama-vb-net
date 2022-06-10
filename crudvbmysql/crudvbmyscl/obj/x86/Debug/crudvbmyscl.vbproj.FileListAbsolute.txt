@@ -1,0 +1,9 @@
+C:\Users\Rayhan\Documents\TUGAS RAYHAN\VB NET\crudvbmysql\crudvbmyscl\bin\Debug\crudvbmyscl.exe
+C:\Users\Rayhan\Documents\TUGAS RAYHAN\VB NET\crudvbmysql\crudvbmyscl\bin\Debug\crudvbmyscl.pdb
+C:\Users\Rayhan\Documents\TUGAS RAYHAN\VB NET\crudvbmysql\crudvbmyscl\bin\Debug\crudvbmyscl.xml
+C:\Users\Rayhan\Documents\TUGAS RAYHAN\VB NET\crudvbmysql\crudvbmyscl\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Rayhan\Documents\TUGAS RAYHAN\VB NET\crudvbmysql\crudvbmyscl\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Rayhan\Documents\TUGAS RAYHAN\VB NET\crudvbmysql\crudvbmyscl\obj\x86\Debug\crudvbmyscl.vbproj.GenerateResource.Cache
+C:\Users\Rayhan\Documents\TUGAS RAYHAN\VB NET\crudvbmysql\crudvbmyscl\obj\x86\Debug\crudvbmyscl.exe
+C:\Users\Rayhan\Documents\TUGAS RAYHAN\VB NET\crudvbmysql\crudvbmyscl\obj\x86\Debug\crudvbmyscl.xml
+C:\Users\Rayhan\Documents\TUGAS RAYHAN\VB NET\crudvbmysql\crudvbmyscl\obj\x86\Debug\crudvbmyscl.pdb
